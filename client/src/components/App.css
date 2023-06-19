@@ -1,0 +1,65 @@
+.navbar{
+  background-color: #24292a;
+  color:white;
+  height:10%;
+  position:fixed;
+  top:0px;
+  left:0px;
+  width:100%;
+  z-index: 1;
+  
+  
+}
+.navbar h1{
+  margin-left:30px;
+  
+}
+.card{
+  background-color: #ffffff;
+  color:rgb(46, 43, 43);
+  border-radius: 10px;
+  box-shadow: #c3c7c8 0px 0px 20px;
+  padding: 10px;
+  margin-left: 3%;
+  margin-right: 3%;
+  
+}
+.addContact{
+margin-top:100px;
+}
+.heading{
+  
+    margin-bottom: 15px;
+    color:#24292a;
+    border-radius: 10px;
+    
+    max-width: fit-content;
+    padding:5px 25% 5px 10px;
+   
+}
+.contactform input{
+  max-width: 500px;
+}
+.forminput{
+  margin-left:1%;
+}
+.contactList{
+  background-color: #ffffff;
+  margin: 100px 3% 3% 3%;
+  color:rgb(46, 43, 43);
+  border-radius: 10px;
+  box-shadow: #c3c7c8 0px 0px 20px;
+  padding: 10px;
+}
+
+
+.item{
+  max-width: 500px;
+}
+
+
+
+
+a{
+  text-decoration: none;
+}
